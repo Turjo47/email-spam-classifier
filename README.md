@@ -44,5 +44,21 @@ if prediction[0] == 1:
     print("Ham mail")
 else:
     print("Spam mail")
+```
+
+---
+
+## Dataset
+[UCI SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
+
+---
+
+## requirements 
+
+Install required package using:
+```bash
+    pip install numpy pandas scikit-learn
+```
+
 
 
